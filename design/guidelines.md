@@ -33,7 +33,7 @@ Still find it confusing to specify `em` sizes? Try the [px to em calculator](htt
 |h5|1em|
 |h6|0.85em|
 
-## Grid ([What is a grid?](#typography/grid))
+## Grid
 For some reading material and resources regarding grids, check out [this article](http://www.smashingmagazine.com/2007/04/14/designing-with-grid-based-approach/).
 
 For most projects you won't need to mess too much with the grid values. However, if you feel like playing aorund with things, head over to [gridpak.com](http://gridpak.com/).
