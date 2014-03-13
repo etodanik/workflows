@@ -7,7 +7,7 @@ This document contains some guidelines in order to enable a smooth and enjoyable
 
 ##General Stuff
 |Parameter|Value|
-|-|-|
+|---|---|
 |Site width on large screens|980px|
 
 If you're doing anything else (full width design, a different base width e.t.c) - be specific.
@@ -24,7 +24,7 @@ A good guideline is to have uniformly sized levels of  heading sizes throughout 
 Still find it confusing to specify `em` sizes? Try the [px to em calculator](http://pxtoem.com/)
 
 |Parameter|Value|
-|-|-|
+|---|---|
 |Base Size|16px|
 |h1|2.75em|
 |h2|2.25em|
@@ -41,14 +41,14 @@ For most projects you won't need to mess too much with the grid values. However,
 While designing avoid absolute `px` values and make sure you follow the distances between columns set by the grid.
 
 |Parameter|Value|
-|-|-|
+|---|---|
 |Columns|12 (normally 12 for most uses or 16 for highly detailed sites)|
 |Column padding|1%|
 |Gutter width|2.75%|
 
 ##Colors
 |Parameter|Value|
-|-|-|
+|---|---|
 |Primary|e.g #5A89F0 or rgb(90,137,240)|
 |Secondary||
 |Links||
